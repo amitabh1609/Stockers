@@ -1,5 +1,6 @@
 # Wall-Street-Mogul
 
+Wall Street Mogul is an IOS App that gives real time information about Share Market and also helps to see the past price of any particular company. The main purpose behind bringing forth this application is to provide a good platform for all investors where they can get important data and market details. This IOS Application provides updated stock market graphs with different time periods and allows user to switch between 3D Charts and Standardized Line Charts. Alongside these charts, the app provides Yield Analysis Drawings which helps investors to calculate the value of their Mutual Funds. With that, investors can also enjoy technical analysis by drawing Bollinger Bands and Fibonacci Lines along with moving averages. Also, while analyzing any particular company, users can check its P/E Ratio (Price - Earnings Ratio) to know whether current share price is reasonable or not. 
 
 <img width="333" alt="Screenshot 2022-11-01 at 6 31 09 PM" src="https://user-images.githubusercontent.com/73311217/199238389-8309897e-be4e-4dce-a400-1db02fadc1dd.png">
 <img width="518" alt="Screenshot 2022-11-01 at 6 30 05 PM" src="https://user-images.githubusercontent.com/73311217/199240614-a5ee5bf5-eac2-4fcf-a814-7e8baf4d185e.png">
